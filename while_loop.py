@@ -1,3 +1,3 @@
 while True :
     string = input("Enter a string : ")
-    print(string)git status
+    print(string)
